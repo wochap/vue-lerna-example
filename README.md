@@ -2,6 +2,6 @@
 
 ```
 $ yarn
-$ 
+$ npx lerna bootstrap --use-workspaces
 ```
 

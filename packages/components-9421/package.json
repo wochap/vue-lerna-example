@@ -1,10 +1,10 @@
 {
   "name": "components-9421",
+  "main": "dist/components-9421.umd.min.js",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "dev:lib": "vue-cli-service build ./src/main.js --target lib --filename components-9421 --formats umd-min --mode development --watch",
+    "build:lib": "vue-cli-service build ./src/main.js --target lib --filename components-9421 --formats umd-min",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint"
   },
