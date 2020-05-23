@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -9,7 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "components-9421": "^0.1.0",
+    "components-9421": "^0.1.1",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
